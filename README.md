@@ -1,5 +1,7 @@
 This is Order tacos services web services developed in Spring boot, lombok and Swagger2
 
+Please free to modify the server port. The current state uses 8081 as server port
+
 Please use below URL's to browse
 
 1. For APi docs: Please visit http://localhost:8081/v2/api-docs
